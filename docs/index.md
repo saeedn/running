@@ -1,6 +1,6 @@
 # Overview
 
-The TLDR of my [running background](https://saeedn.github.io/running/background) is that I thought it was going to be as simple as: put on shoes, run hard. And wow was that wrong, and this is some of what I've learned.
+The TLDR of my [running background](https://saeedn.github.io/running/background) is that I thought it was going to be as simple as: put on shoes, run hard. Wow was that wrong, and this page captures some of what I've learned.
 
 What I've found most interesting is that running involves several overlapping systems, and your overall performance seems to be limited by whichever of these is the weakest at any given time. I'm sure the same is true in any sport, but in biking you really can get away with: get on bike, ride hard. That approach won't take you to the top, but it'll get you pretty far. But running is both a more complex movement and is harder on the body, so it requires a much more intentional approach.
 
@@ -28,7 +28,7 @@ None of this is guaranteed to be in any way accurate. This is just how I've been
   * Critical Power, power zones, correlations to HR zones
   * Speed = power x Running Effectiveness (efficiency of converting power into forward motion)
 * Fuel
-  * A fast half (sub-90) marathon is borderline - you might not need fueling during the race, but you definitely need to be stocked up on fuel pre-race
+  * A fast (sub-90) half marathon is borderline - you might not need fueling during the race, but you definitely need to be stocked up on fuel pre-race
   * Fueling for run vs bike vs triathlon
   * Fueling for zone 2 or 3 efforts vs zone 4 efforts
 * Psychological
