@@ -8,7 +8,7 @@ None of this is guaranteed to be in any way accurate. This is just how I've been
 
 * Cardiovascular
   * [Heart rate](https://saeedn.github.io/running/cardio/heartrate), HR zones, HR drift, aerobic decoupling
-  * Breathing, correlation to HR zones
+  * [Breathing](https://saeedn.github.io/running/cardio/breathing), correlation to HR zones
   * Cardio capacity, base building, run slow to run fast
   * Endurance, lactate threshold
   * Sustainable speed is just below pace at LTHR
