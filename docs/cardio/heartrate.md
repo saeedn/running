@@ -19,3 +19,4 @@
 * Disadvantages
   * Laggy indicator, doesn't react for many seconds after exertion changes
   * Nonspecific, includes many factors other than exertion (heat+humidity, altitude, sleep, caffiene, diet, sickness all affect HR)
+  * Wrist-based HR is very unreliable. Chest straps are accurate but can restrict breathing.
