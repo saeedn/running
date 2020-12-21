@@ -1,5 +1,3 @@
-# Overview
-
 The TLDR of my [running background](https://saeedn.github.io/running/background) is that I thought it was going to be as simple as: put on shoes, run hard. Wow was that wrong, and this page captures some of what I've learned.
 
 What I've found most interesting is that running involves several overlapping systems, and your overall performance seems to be limited by whichever of these is the weakest at any given time. I'm sure the same is true in any sport, but in biking you really can get away with: get on bike, ride hard. That approach won't take you to the top, but it'll get you pretty far. But running is both a more complex movement and is harder on the body, so it requires a much more intentional approach.
@@ -18,8 +16,7 @@ None of this is guaranteed to be in any way accurate. This is just how I've been
   * Resilience, tendon strength, injury management
   * Running form
   * Cadence vs stride length
-  * Forward lean, butt kickers, knee drive
-  * Pull the ground under you, rather than push your body forward
+  * Forward lean, butt kickers, knee drive. Pull the ground under you, rather than push your body forward.
   * Foot landing position
   * Mobility: hips, thoracic spine
   * Speed = cadence x stride length
