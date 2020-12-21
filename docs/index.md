@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+# My Background
 
-You can use the [editor on GitHub](https://github.com/saeedn/running/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+I started running in August 2018. I'd been biking for years - never competitively but I'd put in a couple thousand miles in a summer and a century ride every now and then - and started running so I could get into triathlons. I really thought running was going to be so much simpler than biking. After all, all you need is a pair of shoes! I had no idea how complex running can be and how much I'd learn in the process of trying to become a better runner, and I thought it would be helpful for myself and hopefully for others too if I start documenting some of it.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I came into running with a good base of fitness, which led me to a few false summits. It's been rather humbling to realize that fitness alone doesn't cut it in running. My very first training run was 3 miles at the beginning of August, and by mid September I ran my first half marathon in a surprisingly fast time of 1:43. I thought for sure it was going to be smooth sailing and sub-90 was right around the corner. I ran two more half marathons in the next 3 weeks with reasonably good times, and then 2 days after the 3rd half, I suddenly couldn't walk or even put weight on my right foot. No surprise to anyone who is a runner, but I developed peroneal tendinitis with pain from my shin down into my foot. This was the first of many (small) injuries but I had to face the fact that I can't just charge ahead and get good results.
 
-### Markdown
+I spent the next year learning all about heart rate zones, base building, and running technique, and after a year of hard work, I managed to knock one whole minute off of my half marathon time in 2019. I had solved a few pieces in the puzzle (better tendon strength and resilience, bigger cardio base) but I was again at a false summit because I was severly limited by my mobility. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+When 2020 got derailed, I dropped all of my triathlon training and decided to focus purely on running. I've improved my mobility, started running with power, further built up my cardio base, and this year I dropped 7 minutes off of my half marathon time with a recent time trial at 1:35. This time, it doesn't feel like a summit, but rather that I've taken a few steps on a path and can keep taking more, and I've set a goal to drop 10 more minutes in 2021.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/saeedn/running/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+With that goal in mind, I thought I'd write out what I've been doing to improve my running. It could be useful to others, but I'm also hoping that by writing it all out here, I'll also connect more of the dots for myself and keep improving as a runner.
