@@ -1,6 +1,4 @@
-```
-Under Construction
-```
+> Under Construction
 
 * Measuring heart rate
   * Why? How?
